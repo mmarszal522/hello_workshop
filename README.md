@@ -1,4 +1,4 @@
 # Hello Workshop
 ## Kontakt
 Autor: Ja
-Zespół: ja
+<p>Zespół: ja

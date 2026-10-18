@@ -1,0 +1,1 @@
+# Moja ścieżka w informatyce
